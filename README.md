@@ -15,4 +15,12 @@ The app mentioned in the talk to help review failing golden tests is called Jumm
 ## Slides
 The slides for the talk [can be found here](https://docs.google.com/presentation/d/1piiE7Z4A-q0nRZcPh2-ytKEydbYxU8Jyhs8mehVt6XE/edit?usp=sharing).
 
+## Let's test the full widget tree!
+
+Alicja Ogonowska's talk at DroidCon London 22 is a great way to continue to explore testing at high level.
+
+While she focuses on widget tests, most of her strategy and tips are transferrable to golden tests.
+
+[A must watch!](https://www.droidcon.com/2022/11/15/lets-test-the-full-widget-tree/)
+
 
