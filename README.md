@@ -4,7 +4,7 @@ This sample repository was created in preparation for a talk at Google DevFest L
 
 This aims to provide a simple and practical setup for golden tests, including responsiveness support.
 
-This repository is likely to be refined in the future and could be uased as a base of further articles around Golden Tests.
+This repository is likely to be refined in the future and could be used as a base for further articles around Golden Tests.
 
 
 # Resources & Links
